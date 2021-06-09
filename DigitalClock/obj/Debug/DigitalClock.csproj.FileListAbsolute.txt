@@ -1,0 +1,10 @@
+D:\by ownlearning\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+D:\by ownlearning\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+D:\by ownlearning\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+D:\by ownlearning\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.AssemblyReference.cache
+D:\by ownlearning\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+D:\by ownlearning\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+D:\by ownlearning\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+D:\by ownlearning\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+D:\by ownlearning\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+D:\by ownlearning\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
